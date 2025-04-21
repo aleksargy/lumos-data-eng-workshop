@@ -1,0 +1,116 @@
+patient_id,birthdate,gender,race,ethnicity,marital,state,city
+a810b3cd-a8fa-0288-5f7c-c6347674d155,2023-01-21,M,asian,nonhispanic,,Massachusetts,Wellesley
+aa59ccda-f100-6d3a-9735-a9d61e1fbae1,2014-02-22,F,white,nonhispanic,,Massachusetts,Chicopee
+6bb306f5-8ddf-6ce9-d504-5ec40385aee1,1973-01-04,M,asian,nonhispanic,D,Massachusetts,Natick
+a438167e-e1a2-079b-7707-3ba6b6bd5200,1957-02-16,M,white,nonhispanic,M,Massachusetts,Hanson
+e18295b7-25c7-25f3-45c9-6e473e3df7a6,2013-09-17,M,white,nonhispanic,,Massachusetts,Leominster
+edab9d54-05b1-532a-22de-46c6f0333f31,2006-04-14,F,white,nonhispanic,,Massachusetts,Winchester
+31f3680f-8d89-baa2-a032-b1eab4be10e6,1957-07-22,M,white,nonhispanic,M,Massachusetts,Watertown
+69f622a3-2947-438e-8f85-e60382acb433,1981-01-10,F,asian,nonhispanic,M,Massachusetts,Somerville
+3e8f31e0-f428-8ee5-9353-4255285cea13,1955-09-13,F,white,nonhispanic,D,Massachusetts,Newton
+7cf370d9-33a8-30a9-b4db-c68cef15bc9b,1974-10-13,F,white,nonhispanic,S,Massachusetts,Foxborough
+6687f4d3-cc45-7274-e5d3-c7f95c7fd83a,1947-04-15,F,white,nonhispanic,M,Massachusetts,Boston
+3061fc4b-ce65-ce02-4931-b885be781456,1995-08-13,M,black,nonhispanic,M,Massachusetts,Plymouth
+d6bb338a-eebf-7838-25a8-ff2458b0fa8a,1955-09-13,F,white,nonhispanic,M,Massachusetts,Newton
+cfa59468-f6e1-375e-62d2-3d9fc1bba009,2001-01-21,M,black,nonhispanic,,Massachusetts,Boston
+6c9fe6d0-5aff-392b-d374-763e21ae6d88,2006-06-29,M,white,nonhispanic,,Massachusetts,North Adams
+7d2b9d9b-a464-4e7b-e234-11380e907135,1972-08-28,M,white,nonhispanic,M,Massachusetts,Fitchburg
+b0add224-4a8d-0db2-699a-eda2ce5c4054,1972-11-13,M,white,nonhispanic,D,Massachusetts,Methuen
+63d83360-afb0-d6fc-223e-5f222df5b3ec,1955-09-13,F,white,nonhispanic,D,Massachusetts,Newton
+919bfda0-ba76-5c05-a3d0-06d32aa8f677,1989-07-04,M,white,hispanic,D,Massachusetts,Attleboro
+3f911809-d741-135c-1529-fc90f2ad13e2,1968-07-08,F,white,nonhispanic,M,Massachusetts,Chatham
+1aaaec32-a6dc-5ce6-e051-b2b8652c3757,2019-09-17,F,asian,hispanic,,Massachusetts,Newton
+c7675604-a7cc-a370-bfe1-a637f6913fe7,1949-07-13,M,white,nonhispanic,M,Massachusetts,Worcester
+f9b2d806-fba5-5701-a0b5-8e5fddf183ef,1994-11-09,F,asian,nonhispanic,M,Massachusetts,Boston
+93754e67-d889-c427-0093-fb2dbbebe4b1,1993-12-30,F,black,nonhispanic,M,Massachusetts,Boston
+f6b145f5-c413-7db5-5cda-0bda2115ccb4,1999-02-19,M,asian,nonhispanic,,Massachusetts,Ashland
+7e376556-536d-0ffd-8653-a3e72f9f4268,1974-04-07,F,white,nonhispanic,S,Massachusetts,Cambridge
+942c9c19-fbf2-e1a1-f539-abc85dfb69ea,1995-08-20,F,white,nonhispanic,,Massachusetts,Deerfield
+2ccd1aaa-bfc5-d663-4cec-e00ade71b3aa,1969-05-06,F,white,nonhispanic,D,Massachusetts,Hopkinton
+fcbbca5e-f7ff-5daa-4d4b-1552ed8f70d5,1988-09-11,F,white,nonhispanic,,Massachusetts,West Bridgewater
+fb080a45-40b5-9dfc-4274-7cafa9352f86,1995-08-20,F,white,nonhispanic,M,Massachusetts,Deerfield
+a2bbc96f-7f56-980a-d2f6-df88dd52ea0d,1988-09-11,F,white,nonhispanic,M,Massachusetts,West Bridgewater
+427354a5-b345-d502-70ff-4ee7741f4318,2022-01-07,M,black,hispanic,,Massachusetts,East Longmeadow
+17ce5711-142d-5943-199b-81a6998c2a4b,2004-10-18,M,white,nonhispanic,,Massachusetts,Somerville
+8920a1cf-d600-95c2-c58e-6fed6af6b007,2024-10-13,M,white,nonhispanic,,Massachusetts,Saugus
+72bb4a29-b309-6d93-9632-fa8b549f0338,1984-05-15,F,white,nonhispanic,M,Massachusetts,Needham
+f58abadc-dad2-d870-c5c0-a1e74c752da0,2015-04-30,F,white,nonhispanic,,Massachusetts,Petersham
+b215eba8-2698-feac-bf10-4aa42e379a7d,1975-12-31,F,white,hispanic,S,Massachusetts,East Longmeadow
+6ff6f76c-e25f-e5cd-615b-c1a1deb1a3fc,1957-06-20,M,white,nonhispanic,D,Massachusetts,Brookline
+01f7eb8c-d4aa-d3b5-1cc4-6f3a8c3642c3,1956-04-26,F,white,nonhispanic,S,Massachusetts,Bourne
+b7bd052f-87c0-103d-5ee3-a4a7b7434935,2005-09-26,M,white,nonhispanic,,Massachusetts,Sturbridge
+5dc466b3-1278-2ce4-1be0-0edd2a5f0438,2000-08-30,F,white,nonhispanic,,Massachusetts,Fall River
+c4dfa955-ac94-1558-40ef-9af3f2264e81,1986-02-19,M,white,nonhispanic,W,Massachusetts,Boston
+17a72377-9d53-8727-0f4e-8feb62401f4f,1967-03-01,M,black,nonhispanic,M,Massachusetts,Boston
+e69e1743-7b0d-f46a-51dc-2ee8c8e2d6d0,1932-06-06,F,white,nonhispanic,M,Massachusetts,Milton
+742084a8-d714-f243-6ece-4986378c5e04,1964-07-31,M,white,nonhispanic,W,Massachusetts,Needham
+a2dceff0-d82e-53fe-0593-0083ea788b03,1932-06-06,F,white,nonhispanic,S,Massachusetts,Milton
+f631aaca-3e9a-4292-e98f-f5cfdcd47c5e,1982-12-08,M,white,nonhispanic,S,Massachusetts,Cambridge
+179a1602-0bd0-cfe5-2211-f170a67e6ee8,1948-02-08,M,black,nonhispanic,M,Massachusetts,Westford
+c51ece9a-71c2-ef14-7354-b6211d6884d6,1988-02-04,F,white,nonhispanic,M,Massachusetts,Nahant
+a2524fea-3c28-be73-cd19-3dac851e9f79,2005-08-09,M,white,nonhispanic,,Massachusetts,Northborough
+1390eb5c-7991-1913-8e17-bbdfae2df07c,2023-03-17,M,white,nonhispanic,,Massachusetts,Boston
+80c793c9-e08d-b39e-dede-00c605c027b8,1948-02-08,M,black,nonhispanic,M,Massachusetts,Westford
+df49508f-e5d2-f8bd-1a5c-654d0df61653,1980-10-09,M,white,nonhispanic,M,Massachusetts,Dracut
+eeb2a741-a086-1430-0747-213b6cc1231c,2010-12-04,M,white,nonhispanic,,Massachusetts,Natick
+d1da11d7-f469-721b-8ac4-f4c72a6476cf,1991-07-21,M,white,nonhispanic,M,Massachusetts,Medford
+f93e858c-7d2a-958a-52aa-1870c5b1cb41,1997-09-23,M,black,nonhispanic,,Massachusetts,Ashland
+af117420-4e33-aab7-5fce-1a12dc07b472,2013-10-15,M,white,nonhispanic,,Massachusetts,Holyoke
+cf38b2d8-4495-7a21-d63b-6cafda15f8b1,2021-12-03,M,white,nonhispanic,,Massachusetts,Gloucester
+5457d9cf-9340-9707-7272-88a923211b5d,1958-04-12,F,white,nonhispanic,M,Massachusetts,Ocean Bluff-Brant Rock
+16a70f94-927d-33ff-bd20-49cb611a34d5,1978-08-19,F,white,nonhispanic,M,Massachusetts,Lynnfield
+dc81d3aa-a500-70fd-f8ff-49cb88e0c48a,2005-08-22,M,white,nonhispanic,,Massachusetts,Chicopee
+80c63e86-24ec-261c-7444-ef6818819e48,2003-09-15,F,white,nonhispanic,,Massachusetts,Somerville
+603d7bfd-d714-1a25-c536-7564faeb0b0e,1988-08-31,M,asian,nonhispanic,M,Massachusetts,Lexington
+eb939e99-b5bf-cd2a-f938-520d1556eb47,1950-10-13,M,white,nonhispanic,M,Massachusetts,Lowell
+cb385f1b-7b21-3eac-9d87-a080e927388a,1958-04-12,F,white,nonhispanic,M,Massachusetts,Ocean Bluff-Brant Rock
+b4e57919-61f2-d298-ab88-a45bd3a9c794,1966-01-30,F,white,nonhispanic,M,Massachusetts,Natick
+1a901603-341f-ca2e-8ca3-a366d3270d35,1943-04-17,F,white,nonhispanic,S,Massachusetts,Lexington
+9fca940a-0ca9-abcb-fa24-ce9667643aa4,1999-07-08,F,white,nonhispanic,,Massachusetts,Leominster
+1dcc43ef-e128-3e87-e7a6-4ff633b91518,1961-11-20,M,white,nonhispanic,D,Massachusetts,Cambridge
+4319fe78-2077-036f-9e90-c416e0c3534b,2021-09-23,M,asian,nonhispanic,,Massachusetts,Billerica
+bce6e4d7-f715-6b1d-87dc-ec35ae38aea1,2008-10-04,F,white,nonhispanic,,Massachusetts,Worcester
+efcb4d87-5534-9e00-8bd5-2234e827c47f,2006-04-21,M,white,nonhispanic,,Massachusetts,Worcester
+f8f8646d-b1c9-78c7-c6e6-49824f38a865,1974-10-31,M,white,nonhispanic,M,Massachusetts,Amherst
+8a02d66e-5858-26ff-eb72-1541b5462b46,1974-09-03,M,black,nonhispanic,M,Massachusetts,Boston
+c439d7fd-8593-b167-0f75-fbb351e85edc,2019-09-12,F,white,nonhispanic,,Massachusetts,Boston
+4b915b69-1a0e-6d18-61d4-f0801d250e78,2002-03-15,M,white,hispanic,,Massachusetts,West Springfield
+1c8b456c-b7ee-bf44-b090-eff2d45362da,1999-11-01,F,white,nonhispanic,,Massachusetts,Brookline
+467662d4-cdae-298a-f698-460f5b9b670e,1974-04-24,F,white,nonhispanic,S,Massachusetts,Franklin
+5ec4d24e-4a9b-8eda-a8ee-7ff9232dae2b,1983-02-19,F,white,nonhispanic,M,Massachusetts,Kingston
+6ce0bda7-716f-c904-cdc8-39076db16016,1950-10-13,M,white,nonhispanic,W,Massachusetts,Lowell
+5d7e8aa5-a0bc-6987-afc4-7f86ec0637e5,1970-12-20,M,white,nonhispanic,M,Massachusetts,Everett
+26d13c80-1a8b-805a-8a61-3146044284e8,1950-09-30,M,asian,nonhispanic,M,Massachusetts,Cambridge
+efa80277-5d20-303e-0774-62f1605c8577,1968-02-05,M,black,nonhispanic,M,Massachusetts,Bourne
+efcc7a00-d8d4-b890-e126-bc51f1b88def,1964-08-11,F,white,nonhispanic,M,Massachusetts,Northborough
+81af686a-f699-9005-2539-0e96f43e50be,1970-12-20,M,white,nonhispanic,D,Massachusetts,Everett
+6830b192-656c-ee20-3ad4-cff1a5cd2eaf,1997-03-17,M,white,nonhispanic,M,Massachusetts,Somerville
+d7351809-bac8-3803-3637-419904804cd9,1950-09-30,M,asian,nonhispanic,S,Massachusetts,Cambridge
+5e62af1a-989b-6b9f-e84e-69a27c7abe30,1979-01-22,F,white,nonhispanic,D,Massachusetts,Middleborough
+7cb666fe-707e-749b-cdc2-d392936a511b,1984-11-13,F,white,hispanic,M,Massachusetts,North Andover
+99ec0c0f-7b4e-9438-0179-96c4dd799f51,1985-11-17,M,asian,nonhispanic,S,Massachusetts,Harvard
+0e4d1714-2e69-0a2b-25ec-89206495a111,1988-01-25,F,white,nonhispanic,M,Massachusetts,Beverly
+d760d405-4a51-de33-441a-11c5def506d9,1969-10-13,F,white,nonhispanic,W,Massachusetts,Pittsfield
+cbbff526-535b-685c-9ea4-b4a9e37181d1,1982-02-26,M,native,hispanic,M,Massachusetts,Boston
+9ee2f7e5-a951-e49d-3546-ce0ca38a3166,2001-05-01,F,white,nonhispanic,,Massachusetts,Northampton
+c433938f-0007-0b14-1a04-3dd93fa94ff6,1982-06-08,M,black,nonhispanic,S,Massachusetts,Lawrence
+7a19eaea-4320-0255-0680-495f371879a1,1969-10-13,F,white,nonhispanic,M,Massachusetts,Pittsfield
+27e97e94-e11e-c532-19e8-114436a97c24,1965-09-19,F,white,nonhispanic,S,Massachusetts,Waltham
+d884fe5a-60df-cb62-7b5a-7ee442badad9,1983-12-25,F,white,nonhispanic,M,Massachusetts,Boston
+046f8178-08e1-6ed0-3f05-b3bb9eda0f98,1969-10-13,F,white,nonhispanic,D,Massachusetts,Pittsfield
+abf9e474-3eb3-96b0-5669-5d8b7953a43e,2011-04-20,M,white,hispanic,,Massachusetts,Middleborough
+fd2c0e10-be99-5237-424b-bbfca45ea993,1996-11-14,F,asian,nonhispanic,S,Massachusetts,Boston
+34996e1b-0e7d-909c-d675-170312e59432,2022-11-01,M,white,nonhispanic,,Massachusetts,Peabody
+bdef3c68-4163-7d0d-cb2d-d1796f6f2954,2017-05-17,F,white,nonhispanic,,Massachusetts,Sandwich
+d09d1151-60ba-ffa5-74fb-1fb5d49cd080,1955-01-26,M,white,nonhispanic,W,Massachusetts,Quincy
+1613f3b5-0f41-9366-60f0-8039dc77e3b4,1957-01-19,M,white,nonhispanic,M,Massachusetts,Somerville
+fac3c9c3-3301-fcd1-edb2-3bce8011d2f3,1965-07-24,F,white,nonhispanic,M,Massachusetts,Worcester
+c850db81-6d7e-0e35-ccc9-05683e552133,1976-02-17,M,white,nonhispanic,M,Massachusetts,Grafton
+a4db844d-a42d-28a8-69bc-17ae85b0cd45,1957-01-19,M,white,nonhispanic,M,Massachusetts,Somerville
+fe0263e6-aedf-3e93-63be-a2cf7b409613,1953-09-26,M,white,nonhispanic,W,Massachusetts,Boston
+68821d0f-ca20-6ece-8eae-8be538689159,1981-04-13,F,black,nonhispanic,D,Massachusetts,Boston
+0846cd26-e18b-c7c9-3212-2e8fd621b462,1957-01-19,M,white,nonhispanic,M,Massachusetts,Somerville
+ecfbbf1e-f041-19ff-2011-de6854b9487e,1974-06-30,M,white,nonhispanic,S,Massachusetts,Barnstable
+dfe139ac-8b16-7f76-3f14-96414d4e3cdd,1992-02-22,F,asian,nonhispanic,M,Massachusetts,Weymouth
+7ddac323-ee28-727c-8be3-98ee916a743c,1948-12-01,M,white,nonhispanic,M,Massachusetts,Yarmouth Port
+005e9f1b-9aa9-10b0-e78b-67d2ab1e0ad9,1948-12-01,M,white,nonhispanic,M,Massachusetts,Yarmouth Port
