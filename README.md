@@ -1,6 +1,6 @@
 # 🏥 Medallion Architecture - Healthcare Data Pipeline
 
-This notebook is part of a practical data engineering workshop at **Lumos**. You’ll simulate the role of a **data engineer** helping a healthcare provider make sense of their data using a structured pipeline.
+This notebook is part of a practical data engineering workshop at [Lumos](https://lumos-consulting.at/). You’ll take up the role of a **data engineer** helping a healthcare provider make sense of their data using a structured pipeline.
 
 We’ll use synthetic healthcare data generated with [Synthea](https://synthea.mitre.org), including patient records, medical encounters, and prescribed medications.
 
@@ -23,15 +23,3 @@ Simulate the building of a pipeline in .ipynb that follows the **Medallion Archi
 - **🥉 Bronze Layer**: Raw data directly from the source, no transformations applied.
 - **🥈 Silver Layer**: Cleaned, normalised, and joined data ready for analysis.
 - **🥇 Gold Layer**: Aggregated data and KPIs, used for insights and visualizations.
-
----
-
-## 💡 What You'll Practice
-
-- "Realistic" data exploration and cleaning
-- Transforming messy medical records
-- Joining multiple sources with business logic
-- Aggregating KPIs
-- Plotting results using `matplotlib`
-
----
