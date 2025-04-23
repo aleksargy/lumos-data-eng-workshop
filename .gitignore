@@ -1,0 +1,7 @@
+bronze/*
+silver/*
+!bronze/.keep
+!silver/.keep
+
+*.png
+*.jpg
